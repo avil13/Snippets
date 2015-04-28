@@ -1,6 +1,9 @@
 # Snippets
 Хранение html css js сниппетов в виде файлов
 
+
+![preview](https://cdn.rawgit.com/avil13/Snippets/master/view/img/screenshot.png)
+
 Сниппеты хранятся в `*.html` файлах в подпапках папки `snippets`.
 
 Название этих папок должно быть прописано в массиве файла `list.php`.
