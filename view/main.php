@@ -31,18 +31,17 @@
         </div>
         <!--  -->
         <div class="col s4">
-            <div class="collection file-list">
-            </div>
+            <div class="collection file-list hide-empty"></div>
         </div>
         <!--  -->
-        <div class="col s6">
+        <div class="col s6 right">
             <div class="card-panel teal">
                 <h5 id="snippet-title"></h5>
                 <span class="white-text" id="snippet-description"></span>
             </div>
-            <pre class="html doc pre" id="html"></pre>
-            <pre class="css doc pre" id="css"></pre>
-            <pre class="js doc pre" id="js"></pre>
+            <pre class="html doc pre hide-empty" id="html"></pre>
+            <pre class="css doc pre hide-empty" id="css"></pre>
+            <pre class="js doc pre hide-empty" id="js"></pre>
         </div>
     </div>
     <!--  -->

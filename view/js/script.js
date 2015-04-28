@@ -37,7 +37,7 @@ jQuery(document).ready(function($) {
         var html = '';
         $.each(arr, function(i, v) {
             html += '<a href="' + i + '" data-action="' + v + '" class="get-info file blue-grey darken-4 collection-item">' +
-                '<h6 class="btn">Snippet</h6><hr>' +
+                '<h6 class="btn">Snippet <i class="mdi-action-description"></i></h6><hr>' +
                 '<iframe src="' + v + '" align="center" class="iframe" marginheight="20"></iframe></a>';
         });
         $('.file-list').html(html);
