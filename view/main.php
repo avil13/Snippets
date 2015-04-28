@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAARZJREFUKJGN078rxlEUBvCPQuTnQCxSiiST0WLAZDUYUBb/gEEZrLKYlR/FwmBQSski6i1CGUiZJANJKdl4Dd/z8qXvG0/dbuee8zz3nKd7STCDB7xiDdWyUYYRjGKwcDiO9xCZwCOWM8iV2EUet+goJNaQSxXORUEatTgM8jVa0skpvGEIPVFwkso34izI5xH/QDk2oiCPj9gXUIL9iI9QlzHaF5rRjl48B2kVbVgMD/6NMYmxm9iKLv9EK7rQh5fo4DX2PVQVI1Zg27cHhTUvcfsq4hzqswSm46YBdOMSx6l8A05D5AJNvwXW/f0OanAQIjcx7hcKhs1iEk9YKjLqTojcofP3GPcS81YU/wulGJb8h374BOKiSBwu6vICAAAAAElFTkSuQmCC" rel="icon" type="image/x-icon">
     <title>Snippets</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css">
     <link rel="stylesheet" href="view/css/monokai_sublime.css">
