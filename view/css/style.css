@@ -1,3 +1,7 @@
+.nav-wrapper{
+    padding-left: 10px;
+}
+
 .doc.pre {
     white-space: pre;
 }

@@ -13,6 +13,13 @@
 
 <body class="grey darken-4 white-text">
     <div class="row">
+        <div class="navbar-fixed">
+            <nav class="teal darken-2">
+                <div class="nav-wrapper">
+                    <a href="#!" class="brand-logo">Snippets</a>
+                </div>
+            </nav>
+        </div>
         <!--  -->
         <div class="col s2">
             <div class="collection">
