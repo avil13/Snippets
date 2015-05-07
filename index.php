@@ -31,12 +31,16 @@ if($app->is_ajax()){
     header('Content-Type: application/json; charset=utf-8');
 
     if(empty($_GET['a'])){
-        echo "actinon не может быть пустым";
-        exit();
+        exit("actinon не может быть пустым");
     }
 
     $act = $_GET['a'];
     $param = empty($_GET['p']) ? false : $_GET['p'];
+
+    if(!method_exists($app, $act)){
+        exit("actinon такого экшена нет");
+    }
+
     $res = $app->$act($param);
     echo json_encode($res);
 
